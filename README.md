@@ -15,7 +15,7 @@ Personalized generation with large language models requires not only high-qualit
 
 ## Paper
 
-- **[Paper](</home/naofumi1014/WAIP2026-ICDM/paper/Raw Histories or Compact Profiles.pdf>)**
+- **[Paper](paper/Raw%20Histories%20or%20Compact%20Profiles.pdf)**
 - Venue : IEEE ICDM International Workshop on AI for Personalization (WAIP)
   [lirio-brell.github.io/wain26](https://lirio-brell.github.io/wain26/)
 
